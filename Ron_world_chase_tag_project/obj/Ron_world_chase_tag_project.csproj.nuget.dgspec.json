@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\Ron_world_chase_tag_project\\Ron_world_chase_tag_project\\Ron_world_chase_tag_project.csproj": {}
+    "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\Ron_world_chase_tag_project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\Ron_world_chase_tag_project\\Ron_world_chase_tag_project\\Ron_world_chase_tag_project.csproj": {
+    "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\Ron_world_chase_tag_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Ron_world_chase_tag_project\\Ron_world_chase_tag_project\\Ron_world_chase_tag_project.csproj",
+        "projectUniqueName": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\Ron_world_chase_tag_project.csproj",
         "projectName": "Ron_world_chase_tag_project",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Ron_world_chase_tag_project\\Ron_world_chase_tag_project\\Ron_world_chase_tag_project.csproj",
+        "projectPath": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\Ron_world_chase_tag_project.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\Ron_world_chase_tag_project\\Ron_world_chase_tag_project\\obj\\",
+        "outputPath": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

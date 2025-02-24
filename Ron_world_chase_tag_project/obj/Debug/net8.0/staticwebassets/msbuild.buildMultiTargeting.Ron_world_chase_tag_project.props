@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ron_world_chase_tag_project.props" />
+</Project>

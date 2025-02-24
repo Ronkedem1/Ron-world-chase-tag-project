@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ron_world_chase_tag_project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e8fbe0fdf5eb89a1e958baeac68b90dfde06f2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ron_world_chase_tag_project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ron_world_chase_tag_project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

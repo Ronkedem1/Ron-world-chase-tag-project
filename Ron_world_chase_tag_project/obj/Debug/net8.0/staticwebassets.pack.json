@@ -1,0 +1,353 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Ron_world_chase_tag_project.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Ron_world_chase_tag_project.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\css\\events_style.css",
+      "PackagePath": "staticwebassets\\css\\events_style.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\css\\gallery_style.css",
+      "PackagePath": "staticwebassets\\css\\gallery_style.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\css\\history_and _records_style.css",
+      "PackagePath": "staticwebassets\\css\\history_and _records_style.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\css\\main_page_style.css",
+      "PackagePath": "staticwebassets\\css\\main_page_style.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\css\\the_creators.css",
+      "PackagePath": "staticwebassets\\css\\the_creators.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\css\\top_players.css",
+      "PackagePath": "staticwebassets\\css\\top_players.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\html\\events.html",
+      "PackagePath": "staticwebassets\\html\\events.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\html\\gallery.html",
+      "PackagePath": "staticwebassets\\html\\gallery.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\html\\history and records.html",
+      "PackagePath": "staticwebassets\\html\\history and records.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\html\\main_page.html",
+      "PackagePath": "staticwebassets\\html\\main_page.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\html\\the creators.html",
+      "PackagePath": "staticwebassets\\html\\the creators.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\html\\top players.html",
+      "PackagePath": "staticwebassets\\html\\top players.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\images\\tag picture1.jpg",
+      "PackagePath": "staticwebassets\\images\\tag picture1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\images\\tag picture2.jpg",
+      "PackagePath": "staticwebassets\\images\\tag picture2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\images\\tag picture3.jpg",
+      "PackagePath": "staticwebassets\\images\\tag picture3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\images\\tag picture4.jpg",
+      "PackagePath": "staticwebassets\\images\\tag picture4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\images\\tag picture5.jpg",
+      "PackagePath": "staticwebassets\\images\\tag picture5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\images\\tag picture6.jpg",
+      "PackagePath": "staticwebassets\\images\\tag picture6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\images\\tag picture7.jpg",
+      "PackagePath": "staticwebassets\\images\\tag picture7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\images\\tag picture8.jpg",
+      "PackagePath": "staticwebassets\\images\\tag picture8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\images\\tag picture9.jpg",
+      "PackagePath": "staticwebassets\\images\\tag picture9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Ron_world_chase_tag_project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Ron_world_chase_tag_project.props",
+      "PackagePath": "build\\Ron_world_chase_tag_project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Ron_world_chase_tag_project.props",
+      "PackagePath": "buildMultiTargeting\\Ron_world_chase_tag_project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Ron_world_chase_tag_project.props",
+      "PackagePath": "buildTransitive\\Ron_world_chase_tag_project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

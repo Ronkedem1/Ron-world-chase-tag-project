@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBEB587-9926-42DA-826C-4148444A4FA6}|Ron_world_chase_tag_project\\Ron_world_chase_tag_project.csproj|c:\\users\\user\\ronkedem\\ron-world-chase-tag-project\\ron_world_chase_tag_project\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BBEB587-9926-42DA-826C-4148444A4FA6}|Ron_world_chase_tag_project\\Ron_world_chase_tag_project.csproj|solutionrelative:ron_world_chase_tag_project\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBEB587-9926-42DA-826C-4148444A4FA6}|Ron_world_chase_tag_project\\Ron_world_chase_tag_project.csproj|c:\\users\\user\\ronkedem\\ron-world-chase-tag-project\\ron_world_chase_tag_project\\pages\\main_page.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BBEB587-9926-42DA-826C-4148444A4FA6}|Ron_world_chase_tag_project\\Ron_world_chase_tag_project.csproj|solutionrelative:ron_world_chase_tag_project\\pages\\main_page.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBEB587-9926-42DA-826C-4148444A4FA6}|Ron_world_chase_tag_project\\Ron_world_chase_tag_project.csproj|c:\\users\\user\\ronkedem\\ron-world-chase-tag-project\\ron_world_chase_tag_project\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BBEB587-9926-42DA-826C-4148444A4FA6}|Ron_world_chase_tag_project\\Ron_world_chase_tag_project.csproj|solutionrelative:ron_world_chase_tag_project\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ron_world_chase_tag_project\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Ron_world_chase_tag_project\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T20:29:45.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main_page.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\Pages\\main_page.cshtml",
+              "RelativeDocumentMoniker": "Ron_world_chase_tag_project\\Pages\\main_page.cshtml",
+              "ToolTip": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\Pages\\main_page.cshtml",
+              "RelativeToolTip": "Ron_world_chase_tag_project\\Pages\\main_page.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T20:29:32.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ron_world_chase_tag_project\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\ronkedem\\Ron-world-chase-tag-project\\Ron_world_chase_tag_project\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ron_world_chase_tag_project\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T20:27:02.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
